@@ -1,4 +1,4 @@
-````markdown
+
 # Customer Churn Prediction
 
 > An end-to-end machine learning project that predicts customer churn using the IBM Telco Customer Churn dataset. This repository demonstrates a complete machine learning workflow, including data exploration, preprocessing, feature engineering, model development, evaluation, explainability, deployment, and reproducible software engineering practices.
@@ -75,10 +75,9 @@ customer-churn-prediction/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-````
 
 ---
-
+```
 ## Technology Stack
 
 | Category             | Technologies          |
