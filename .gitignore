@@ -34,3 +34,6 @@ data/raw/*
 
 data/processed/*
 !data/processed/.gitkeep
+
+data/interim/*
+!data/interim/.gitkeep
