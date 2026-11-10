@@ -104,11 +104,10 @@ customer-churn-prediction/
 * [x] Data loading module
 * [x] Data understanding
 * [x] Exploratory data analysis
+* [x] Data preprocessing
+* [x] Feature engineering
 
 ### Upcoming
-
-* [ ] Data preprocessing
-* [ ] Feature engineering
 * [ ] Baseline machine learning models
 * [ ] Advanced machine learning models
 * [ ] Hyperparameter tuning
@@ -124,7 +123,7 @@ customer-churn-prediction/
 
 | Version | Status      |
 | ------- | ----------- |
-| v0.1.0  | Pre-release |
+| v0.3.0  | Pre-release |
 
 Current milestone:
 
@@ -132,6 +131,8 @@ Current milestone:
 * IBM Telco dataset integration
 * Data Understanding
 * Exploratory Data Analysis
+* Data Preprocessing
+* Feature Engineering
 
 ---
 
@@ -189,6 +190,8 @@ Run the notebooks in the following order:
 
 1. `01_data_understanding.ipynb`
 2. `02_exploratory_data_analysis.ipynb`
+3. `03_data_preprocessing.ipynb`
+4. `04_feature_engineering.ipynb`
 
 ---
 
@@ -204,15 +207,15 @@ The project currently includes:
 * Categorical feature exploration
 * Correlation analysis
 * Business insights
-
+* Data preprocessing pipeline
+* Feature engineering
 Model development is currently in progress.
 
 ---
 
 ## Roadmap
 
-* Data preprocessing pipeline
-* Feature engineering
+
 * Logistic Regression
 * Decision Tree
 * Random Forest
